@@ -1,0 +1,11 @@
+{
+	"name": "Q2A Guest Ads",
+	"uri": "https://github.com/Kuddus95/q2a-guest-ads",
+	"description": "Show adsense ads only guests.",
+	"version": "1.8",
+	"date": "2020-01-18",
+	"author": "Arjun modified by Aman",
+	"author_uri": "https://www.ask-ans.com",
+	"license": "GPLv2",
+	"load_order": "after_db_init"
+}
